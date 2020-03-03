@@ -1,6 +1,6 @@
-# Compute Freely
+# Try Linux
 
-Compute Freely is a website that's meant to be a friendly place to start for the Free & Open Source Software and Linux curious.
+Try Linux is a website that's meant to be a friendly place to start for the Free & Open Source Software and Linux curious. Try Linux is a site made by [ThinkPrivacy](https://www.thinkprivacy.io).
 
 ## Copying & Reuse
 
@@ -18,4 +18,4 @@ This site is built using the static site generator [Jekyll](https://jekyllrb.com
 
 Contributions are obviously welcome! If you would like to contribute to this project, please have [read this](/CONTRIBUTING.md) regarding contributions.
 
-Alternatively, if you would like to support development by making a donation you can do so [here](https://snwh.org/donate).
+Alternatively, if you would like to support development by making a donation you can do so [here](https://www.thinkprivacy.io/donate.html).

@@ -1,4 +1,4 @@
-# Contributing to Compute Freely
+# Contributing to Try Linux
 
 ## Submitting Distributions
 
