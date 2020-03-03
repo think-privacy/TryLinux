@@ -1,0 +1,72 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+# Site Info
+title: "Try Linux"
+description: "A friendly place to start for the Free &amp; Open Source Software and GNU/Linux curious."
+
+# The URL of your actual domain. This will be used to make absolute links in the RSS feed.
+url: https://trylinux.today
+baseurl: /
+
+# Images
+image: "/img/promo.png"
+icon: "/img/icon.png"
+favicon: "/img/favicon.png"
+color: "#0099ee"
+
+# Posts
+permalink: /distro/:title
+
+# Directories
+dirs:
+  logos: "/img/logos/"
+  screenshots: "/img/screenshots/"
+  tags: "/tags/"
+  distro: "/distro/"
+  categories: "/categories/"
+  desktops: "/desktops/"
+
+# GitHub
+github:
+  repo: https://github.com/snwh/computefreely/
+  issues: https://github.com/snwh/computefreely/issues
+  edit: 
+    desktops: https://github.com/snwh/computefreely/edit/master/_desktops/
+    posts: https://github.com/snwh/computefreely/edit/master/_posts/
+
+# Author
+author:
+  name: "Dan Arel"
+  url: "https://danarel.com/"
+  donate: "https://patreon.com/danarel"
+
+# SASS
+sass:
+  style: minified
+
+# Markdown
+markdown: kramdown
+
+# Include list
+include: ["_pages"]
+exclude: ["*.git*", "README*", "LICENSE*", AUTHORS, CONTRIBUT*, Gemfile, Gemfile.*]
+
+# Collections (specifically used for the desktops pages)
+collections:
+  desktops:
+    output: true
+    permalink: /:collection/:title
