@@ -28,11 +28,16 @@ icon: "/img/icon.png"
 favicon: "/img/favicon.png"
 color: "#0099ee"
 
+#Logo
+logo:
+  sitelogo: "try_linux.png"
+
 # Posts
 permalink: /distro/:title
 
 # Directories
 dirs:
+  images: "/img/"
   logos: "/img/logos/"
   screenshots: "/img/screenshots/"
   tags: "/tags/"
