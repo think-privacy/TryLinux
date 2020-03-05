@@ -9,7 +9,7 @@ tags: [desktop, minimal, cli]
 category: [advanced]
 notes:
   homepage: http://www.archlinux.org/
-  version: 2019.05.02
+  version: rolling release
   install: command line
   developers:
     - name: Arch Linux Devlopers
