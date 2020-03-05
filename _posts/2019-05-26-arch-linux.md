@@ -3,7 +3,7 @@ layout: post
 author: "Sam Hewitt"
 title: "Arch Linux"
 date: "2017-03-02"
-updated: "2019-05-26"
+updated: "2020-03-05"
 logo: "arch-linux"
 tags: [desktop, minimal, cli]
 category: [advanced]
