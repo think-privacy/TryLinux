@@ -23,12 +23,12 @@ url: https://trylinux.today
 baseurl: /
 
 # Images
-favicon: "/img/favicon.png"
+favicon: "/img/favicon.ico"
 color: "#0099ee"
 
 #Logo
 logo:
-  sitelogo: "try_linux.png"
+  sitelogo: "2020_logo.png"
 
 # Posts
 permalink: /distro/:title
