@@ -12,7 +12,6 @@ Each post has "frontmatter" that contains metadata for the post and about the di
 
 ```yaml
 layout: post
-author: Sam Hewitt
 title: "Ubuntu"
 date: "2017-03-02"
 logo: "distro-ubuntu"

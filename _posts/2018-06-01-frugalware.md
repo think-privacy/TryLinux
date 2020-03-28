@@ -9,6 +9,7 @@ image: "frugalware-2.1.png"
 caption: "Frugalware 2.1 with the Plasma desktop"
 tags: [cli]
 category: [intermediate]
+published: false
 notes:
   homepage: https://frugalware.org/
   version: "2.1"

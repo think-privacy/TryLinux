@@ -8,6 +8,7 @@ image: "chakra-2017.10.png"
 caption: "Chakra Linux with the Plamsa desktop"
 tags: [desktop]
 category: [beginner]
+published: false
 notes:
   homepage: https://www.chakralinux.org/
   version: "2017.10"
