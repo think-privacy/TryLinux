@@ -14,6 +14,7 @@ $bg_color: #fbfef9;
 $fg_color: #333;
 $base_color: #fff;
 $brand_color: #56e39f;
+$links_color: #539987;
 
 // primary colors
 $red_color:#ff2233;
@@ -25,7 +26,7 @@ $purple_color:#aa00ff;
 $pink_color:#ee0066;
 
 // Link colors
-$link_color: $brand_color;
+$link_color: $links_color;
 $link_focus_color: invert($link_color);
 
 // Selection
