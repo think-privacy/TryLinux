@@ -45,11 +45,11 @@ dirs:
 
 # GitHub
 github:
-  repo: https://gitlab.com/danarel/trylinux
-  issues: https://gitlab.com/danarel/trylinux/issues
+  repo: https://gitlab.com/thinkprivacy/trylinux
+  issues: https://gitlab.com/thinkprivacy/trylinux/issues
   edit: 
-    desktops: https://gitlab.com/danarel/trylinux/edit/master/_desktops/
-    posts: https://gitlab.com/danarel/trylinux/edit/master/_posts/
+    desktops: https://gitlab.com/thinkprivacy/trylinux/edit/master/_desktops/
+    posts: https://gitlab.com/thinkprivacy/trylinux/edit/master/_posts/
 
 # Author
 author:
