@@ -33,7 +33,7 @@ notes:
 
 #### Publishing
 
-The first half of the frontmatter contains publishing and categorization infomation.
+The first half of the frontmatter contains publishing and categorization information.
 
  - `layout` is the page layout for Jekyll. **Do not change this**
  - `title` in this case will refer to the distribution name
@@ -66,7 +66,7 @@ An acceptable screenshot must:
  - follow the name convention of the other included screenshots that is `desktop-<name>-<version>`
 
 An acceptable version of the project logo must:
- - be of the distibution icon, not the wordmark 
+ - be of the distribution icon, not the wordmark
  - be in SVG format, a PNG or other file format will not display
  - follow the name convention of the other included logos that is `distro-<name>`
  - be 200x200 pixels and the logo is at most 160x160 within that
