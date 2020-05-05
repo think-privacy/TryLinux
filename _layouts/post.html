@@ -32,8 +32,6 @@ layout: minimal
 		<div class="page-title">
 			{%- if page.logo -%}<img class="logo" src="{{ site.dirs.logos }}{{ page.logo }}.svg">{%- endif -%}<h2>{{ page.title }}</h2>
 		</div>
-		<!-- Published -->
-		{%- if page.date -%}<small class="published">{%- if page.updated -%}Page last updated <span class="date">{{ page.updated | date_to_string }}{%- else -%}Page posted on <span class="date">{{ page.date | date_to_string }}{%- endif -%}&nbsp;</span>{%- endif -%}</small>
 		<!-- Tags -->
 		<ul class="tags">
 			<!-- Tags -->
