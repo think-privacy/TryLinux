@@ -22,6 +22,6 @@ Alternatively, if you would like to support development by making a donation you
 
 ## Source
 
-Try Linux is a fork of [ComputeFreely](https://computefreely.org/), an open source website for which we based ours on. After making multiple pull requests that went unanswered, and seeing others do the same, we deemed the project inactive and forked it into the site you're visiting now.
+Try Linux is a fork of ComputeFreely, a former open source website for which we based ours on. ComputeFreely as a project has ceased to exist and we hope to carry on its legacy and continue to provide a resource for users looking for the right Linux distribution for themselves.
 
 Our plan is to continue to develop and expand the site beyond its original form and become something new altogether.
