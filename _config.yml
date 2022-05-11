@@ -19,7 +19,7 @@ title: "Try Linux"
 description: "A friendly place to start for the Free &amp; Open Source Software and GNU/Linux curious."
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: https://trylinux.today
+url: https://trylinux.thinkprivacy.ch
 baseurl: /
 
 # Images
@@ -31,7 +31,7 @@ logo:
   sitelogo: "2020_logo.png"
 
 # Posts
-permalink: /distro/:title
+permalink: /distro/:title/
 
 # Directories
 dirs:
@@ -54,8 +54,8 @@ github:
 # Author
 author:
   name: "ThinkPrivacy"
-  url: "https://thinkprivacy.io/"
-  donate: "https://www.thinkprivacy.io/donate.html"
+  url: "https://thinkprivacy.ch/"
+  donate: "https://www.thinkprivacy.ch/donate.html"
 
 # SASS
 sass:
