@@ -6,13 +6,13 @@ date: "2017-03-02"
 updated: "2019-12-23"
 updater: "Dan Arel"
 logo: "elementary"
-image: "elementary-os-5.1.png"
-caption: 'elementary OS 5.1 Hera desktop'
+image: "elementary-os-6.1.jpg"
+caption: 'elementary OS 6.1 Jólnir desktop'
 tags: [desktop]
 category: [beginner]
 notes:
   homepage: https://elementary.io/
-  version: "5.1 Hera"
+  version: "6.1 Jólnir"
   based-on: ["Ubuntu"]
   desktops: [Pantheon]
   install: graphical

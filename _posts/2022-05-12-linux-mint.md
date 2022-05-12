@@ -3,7 +3,7 @@ layout: post
 author: "Sam Hewitt"
 title: "Linux Mint"
 date: "2018-06-01"
-updated: "2020-03-03"
+updated: "2022-05-12"
 updater: "Dan Arel"
 logo: "linux-mint"
 image: "linux-mint-19.1.png"
@@ -12,7 +12,7 @@ tags: [desktop]
 category: [beginner]
 notes:
   homepage: https://www.linuxmint.com/
-  version: "19.3"
+  version: "20.3"
   based-on: ["Ubuntu", "Debian"]
   desktops: [Cinnamon, KDE Plasma, MATE, Xfce]
   install: graphical

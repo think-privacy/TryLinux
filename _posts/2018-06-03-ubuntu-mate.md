@@ -9,7 +9,7 @@ tags: [desktop]
 category: [beginner]
 notes:
   homepage: https://ubuntu-mate.org/
-  version: "20.04"
+  version: "22.04"
   based-on: ["Ubuntu"]
   desktops: [MATE]
   install: graphical
