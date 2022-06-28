@@ -45,11 +45,11 @@ dirs:
 
 # GitHub
 github:
-  repo: hhttps://codeberg.org/ThinkPrivacy/TryLinux
-  issues: https://codeberg.org/ThinkPrivacy/TryLinux/issues
+  repo: https://github.com/think-privacy/TryLinux
+  issues: https://github.com/think-privacy/TryLinux/issues
   edit: 
-    desktops: https://codeberg.org/ThinkPrivacy/TryLinux/src/branch/master/_desktops/
-    posts: https://codeberg.org/ThinkPrivacy/TryLinux/src/branch/master/_posts/
+    desktops: https://github.com/think-privacy/TryLinux/tree/main/_desktops/_desktops/
+    posts: https://github.com/think-privacy/TryLinux/tree/main/_desktops/_posts/
 
 # Author
 author:
