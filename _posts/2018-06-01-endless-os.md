@@ -10,7 +10,7 @@ tags: [desktop]
 category: [beginner]
 notes:
   homepage: https://endlessos.com/
-  version: "3.4"
+  version: "4"
   based-on: ["Debian"]
   desktops: [GNOME]
   install: graphical
