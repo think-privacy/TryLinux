@@ -3,6 +3,7 @@ layout: desktop
 title: "Budgie"
 logo: "desktop-budgie"
 tag: "budgie"
+permalink: "/desktops/budgie/"
 category: [desktop]
 notes:
   homepage: https://getsol.us/budgie/

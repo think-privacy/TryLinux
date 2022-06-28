@@ -4,6 +4,7 @@ title: "Pantheon"
 tag: "pantheon"
 image: "desktop-pantheon.png"
 caption: "Pantheon desktop on elementary OS 0.4"
+permalink: "/desktops/pantheon/"
 category: [desktop]
 notes:
   developers:

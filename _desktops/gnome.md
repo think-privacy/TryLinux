@@ -5,6 +5,7 @@ logo: "desktop-gnome"
 tag: "gnome"
 image: "desktop-gnome-3.28.jpg"
 caption: "GNOME 3.28 Activities Overview"
+permalink: "/desktops/gnome/"
 category: [desktop]
 notes:
   homepage: https://gnome.org/

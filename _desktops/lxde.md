@@ -5,6 +5,7 @@ logo: "desktop-lxde"
 tag: "lxde"
 image: "desktop-lxde.png"
 caption: "The LXDE desktop on Lubuntu"
+permalink: "/desktops/lxde/"
 category: [desktop]
 notes:
   homepage: https://lxde.org/

@@ -40,7 +40,7 @@ dirs:
   screenshots: "/img/screenshots/"
   tags: "/tags/"
   distro: "/distro/"
-  categories: "/categories/"
+  categories: "/categories/" 
   desktops: "/desktops/"
 
 # GitHub

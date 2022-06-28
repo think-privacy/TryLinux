@@ -5,6 +5,7 @@ logo: "desktop-deepin"
 tag: "deepin"
 image: "deepin-desktop.png"
 caption: "Deepin Desktop on Fedora"
+permalink: "/desktops/deepin/"
 category: [desktop]
 notes:
   homepage: https://www.deepin.org/dde/

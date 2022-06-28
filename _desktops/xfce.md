@@ -5,6 +5,7 @@ logo: "desktop-xfce"
 tag: "xfce"
 image: "desktop-xfce.png"
 caption: "The desktop of Xfce variant of Ubuntu, Xubuntu"
+permalink: "/desktops/xfce/"
 category: [desktop]
 notes:
   homepage: https://xfce.org/

@@ -5,6 +5,7 @@ logo: "desktop-cinnamon"
 tag: "cinnamon"
 image: "desktop-cinnamon.jpg"
 caption: "Cinnamon Desktop on Fedora"
+permalink: "/desktops/cinnamon/"
 category: [desktop]
 notes:
   homepage: http://developer.linuxmint.com/projects/cinnamon-projects.html

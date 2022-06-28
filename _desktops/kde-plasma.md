@@ -5,6 +5,7 @@ logo: "desktop-kde-plasma"
 tag: "kde-plasma"
 image: "desktop-kde-plasma-5.0.png"
 caption: "KDE Plasma Desktop"
+permalink: "/desktops/kde/"
 category: [desktop]
 notes:
   homepage: https://www.kde.org/plasma-desktop

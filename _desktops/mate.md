@@ -5,6 +5,7 @@ logo: "desktop-mate"
 tag: "mate"
 image: "desktop-mate.png"
 caption: "MATE desktop with the Caja file manager and panel menu open"
+permalink: "/desktops/mate/"
 category: [desktop]
 notes:
   homepage: https://mate-desktop.org/
